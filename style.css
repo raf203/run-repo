@@ -309,13 +309,6 @@ color: #fce138;
 
 /* REACH OUT STYLES END */
 
-/* homepage hero */
-.hero {
-  margin:20px;
-  background-color: white;
-  font-size: 20px;
-  color: blue;
-}
 
 /* secondary page hero */
 .hero-secondary {
@@ -323,5 +316,5 @@ color: #fce138;
   background-color: black;
   font-size: 20px;
   color: red;
-  
+
 }
