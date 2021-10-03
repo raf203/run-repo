@@ -23,7 +23,7 @@ body {
 
   /* apply styles to <header> */
   header {
-    background-image: url("file:///Users/rafinha/Bootcamp/uc-berkeley/project/run-repo/assets/images/hero-bg.jpeg ");
+    background-image: url("./Bootcamp/uc-berkeley/project/run-repo/assets/images/hero-bg.jpeg ");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

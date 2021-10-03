@@ -7,9 +7,6 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-## Website
-https://raf203.github.io/run-buddy/
-
 ## Contribution
 Made with ❤️ by Rafael Cardoso
 
